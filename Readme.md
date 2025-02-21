@@ -1,0 +1,1 @@
+Attempt at developing a real estate agent using OpenAPI API
